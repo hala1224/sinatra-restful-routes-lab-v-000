@@ -6,7 +6,7 @@ class ApplicationController < Sinatra::Base
 
   # code actions here!
    get '/' do 
-     erb :  
+     erb :index 
    end 
    
    
